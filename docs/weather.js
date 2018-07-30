@@ -2,7 +2,7 @@
 class Weather {
   constructor(city, state) {
     //properties needed for the API URL.
-    this.apiKey = '99dfe35fcb7de1ee';
+    this.apiKey = '**************';
     this.city = city;
     this.state = state;
   }
